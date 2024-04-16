@@ -392,6 +392,7 @@
 		(uuid "6f5c2a75-b05b-4dc3-a85a-d153b92d2701")
 	)
 	(model "${KIPRJMOD}/proj.3dshapes/SW-SMD_SS-1290.wrl"
+		(hide yes)
 		(offset
 			(xyz -15.9 15.54 -2.11)
 		)
@@ -400,6 +401,17 @@
 		)
 		(rotate
 			(xyz 0 0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/proj.3dshapes/SW-SMD_SS-1290.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
 		)
 	)
 )

@@ -348,11 +348,23 @@
 		(uuid "9384f131-71cb-498f-9829-60301a016f43")
 	)
 	(model "${KIPRJMOD}/proj.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.wrl"
+		(hide yes)
 		(offset
 			(xyz -17.75 25.64 -1.56)
 		)
 		(scale
 			(xyz 0.393 0.393 0.393)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/proj.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.stp"
+		(offset
+			(xyz 0 1.4 0)
+		)
+		(scale
+			(xyz 1 1 1)
 		)
 		(rotate
 			(xyz 0 0 0)

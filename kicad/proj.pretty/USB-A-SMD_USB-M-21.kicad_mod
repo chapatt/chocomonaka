@@ -840,4 +840,15 @@
 			(xyz 0 0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/proj.3dshapes/USB-A-SMD_4P-L13.1-W10.0-H6.9.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

@@ -445,7 +445,18 @@
 			(xyz 0.393 0.393 0.393)
 		)
 		(rotate
-			(xyz 0 0 -0)
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/proj.3dshapes/FPC-SMD_30P-P0.50_HDGC_0.5K-BS-30PWB.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
 		)
 	)
 )

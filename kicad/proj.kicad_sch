@@ -9596,7 +9596,7 @@
 		)
 		(uuid "2494a6d7-89b4-4278-ac87-219d8c9b38e1")
 	)
-	(label "GPIO19"
+	(label "GPIO18"
 		(at 201.93 71.12 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9915,7 +9915,7 @@
 		)
 		(uuid "73f44d2b-3d7b-458b-9b9a-0dc9cc2b6257")
 	)
-	(label "GPIO18"
+	(label "GPIO19"
 		(at 201.93 68.58 0)
 		(fields_autoplaced yes)
 		(effects
@@ -14488,15 +14488,15 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 121.92 123.19 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "995a1045-e835-48d1-bc08-d4e28f981c05")
 		(property "Reference" "SW21"
-			(at 123.19 121.9199 90)
+			(at 123.19 124.4601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14505,7 +14505,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 123.19 124.4599 90)
+			(at 123.19 121.9201 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -510,9 +510,9 @@
       "plot": "plots/",
       "pos_files": "plots/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "proj.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "proj.wrl"
     },
     "page_layout_descr_file": ""
   },
